@@ -27,4 +27,4 @@ Prepare a report to solve the above problems. The report should contain all the 
 Prepare it in the markdown file dedicated for each question's directory.
 
 ### Codes
-Coding should be in its repective directory. Question 1 codes must be in `q1` directory and so on.
+Coding should be in its respective directory. E.g. Question 1 codes must be in `q1` directory and so on.
